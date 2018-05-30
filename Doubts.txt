@@ -1,3 +1,20 @@
 1. What is public, static, void, main, String in main method
+
+Let's split it and understand one by one.
+1. public- Here public is an access specifier which allows thhe main method to be accessble everywhere.
+2. static- static helps main method to get loaded without getting alled by any instance/object.
+3. void- void clarifies that the main method will not return any value.
+4. main- It's the name of the method.
+5. String[] args- Here we are defining a String array to pass arguments at command line. args is the variable name of the String array. It can be changed to anything such as String [] a.
+
+
 2. Why we have to give 'L' for defining long datatype
+A: Read the answer Here
+https://stackoverflow.com/questions/769963/javas-l-number-long-specification
+
 3. Why boolean data type default value is false?
+A: Not found an answer but found something which can help to relate
+
+When a boolean variable is created either 1 Bit or 1 Byte will be allocated since the size of a boolean
+ data type is JVM( Java Virtual Machine) dependent. The default value any Object reference (including Boolean)
+  is null. The default value for a primitive boolean is false. boolean datatype value can be True or False
