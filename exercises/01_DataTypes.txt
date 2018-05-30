@@ -1,0 +1,28 @@
+Save the answer in Solution01.java file
+
+1. Numbers
+
+Whole Numbers
+
+* Create a variable with name 'num01' which stores number value of 152 and should have occupy minimum memory space
+* Create two variables num03, num04 with values 32500, 25612 add these two and keep it in third variable num05.
+Where num03, num04, num05 should occupy minimum memory space. Print the value of num05
+
+Decimals
+
+* Creat a variable with name 'num06' which can store 544.12, add 75 (int) to it and print the output.
+
+2. Boolean
+
+* Create a variable with name 'bool01' which stores value of true, Calculate negation (opposite) of bool01 and print that value
+* Create two variables with names 'bool02', 'bool03' with values as true and false. Add them both and print the result,
+Note: Dont use third variable.
+
+3. Characters
+
+* Print Sigma symbol Σ, by defining a variable name char01 and assigning a unicode character value(not the one shown here)
+to it.
+* Create a String variable with name 'fname' value as "Bhavani", take another char variable 'lname' with value 'T'
+(observe 'T' is in single quotes, it should be char datatype). Print a variable 'fullname' (you have to find the datatype)
+whose value should be computed with variables 'fname' and 'lname' and the value should be "Bhavani T" (note there is a space
+between them)
