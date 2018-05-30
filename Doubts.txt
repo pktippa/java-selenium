@@ -1,0 +1,3 @@
+1. What is public, static, void, main, String in main method
+2. Why we have to give 'L' for defining long datatype
+3. Why boolean data type default value is false?
