@@ -1,0 +1,17 @@
+Save the answer in Solution02_04.java file in solutions folder.
+4. Logical Operators
+
+4.1 Logical And Operator &&
+
+Recap:
+
+true && true => true
+true && false => false
+false && true => false
+false && false => false
+
+Create two variables "var_num" with 25, "var_num2" with 30, Create another variable "check_num" 
+with 28. Check if "check_num" is greater than "var_num" and less than "var_num2", capture the
+resulted value in "res_log_and" and print the same.(Hint: You need to perform relational operations)
+
+4.2 
