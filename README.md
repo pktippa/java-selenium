@@ -19,4 +19,11 @@ $ git push
     * Instance Variable
     * Static variable
 * Control Statements
+    * If-else
+    * switch
+    * while loop
+    * do-while loop
+    * for loop
+    * Break
+    * continue
 * Functions

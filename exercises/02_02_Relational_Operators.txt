@@ -1,0 +1,33 @@
+Save the answer in Solution02_02.java file in solutions folder.
+2. Relational Operators
+
+2.1 Equal to ==
+
+a) Compare two integers with variables "var_int", "var_int2" whose values are 25, 30 for equality.
+Capture this result in third variable "num_eq", Print the value of "num_eq"
+
+b) Create another variable "var_float" whose value is 25.0f, Compare this variable with "var_int"
+using equality operator capture the result in "float_int_eq", Print the value of "float_int_eq"
+
+2.1 Not Equal to !=
+
+Compare the previously created variables "var_int" , "var_int2" for not equality.
+Capture this result in variable "num_not_eq", Print the value of "num_not_eq"
+
+2.2 Greater than >
+
+Create two new variables of your choice of values and their data types, compare two variables
+with greater than operator such that it returns a value true. Print the two new variables you created.
+
+2.3 Less than 
+
+Create a variable "gt_lt_num" so that, it holds a value which is greater than variable "var_int"
+and less than "var_int2". Compare the variable "gt_lt_num" with "var_int" with greater than 
+operator, with "var_int2" with less than operator. Print values of both operations. (you may create
+new variables to hold the results of the operations).
+
+2.4 Greater than or equal to >=     Less than or equal to <=
+
+Create a variable "gt_lt_eq_num" so that, it should return always true when compared with 
+"var_int" or "var_int2" using either of >= or <=. Print the variable "gt_lt_eq_num" value.
+
