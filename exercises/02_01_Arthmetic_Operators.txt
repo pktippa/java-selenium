@@ -1,0 +1,34 @@
+Save the answer in Solution02_01.java file in solutions folder.
+
+1. Arthmetic Operators
+
+1.1 Addition
+Take two integer variables, so that whose sum (variable: sum_nums) should be equal to 127. Print individual variable values and 
+print the their sum which is 127.
+
+1.2 Subtraction
+Take the previously created sum_nums variable subtract with value with variable name "sub_this" 
+so that the returning value should be 45 holding in variable named "subtract_num". Print "sub_this" variable value.
+
+1.3 Multiplication
+Take the previously created variable "subtract_num" whose value is 45, multiply with a number
+with variable name "mul_this" so that the returning value should be 67.5 holding in variable named "mul_num"
+Print the "mul_this" variable value.
+
+1.4 Division
+Take the previously created variable "mul_num" whose values is 67.5, divide with a number variable name
+"divide_this" so that the returning value should be 22.5 holding in variable named "div_num".
+Print the "divide_this" variable value.
+
+1.5 Modulus
+Take the previously created variable "div_num" whose value is 22.5, calculate Modulus operation with a value
+with variable name "mod_this" so that the returning vlue should be 0 (0.0 is also fine) holding in
+variable name "mod_num" . Print the "mod_this" variable value.
+
+1.6 Increment
+take a variable name "inc_num" whose value is 23, do increment operation multiple times so that 
+the value of "inc_num" becomes 26.
+
+1.7 Decrement
+Take a variable name "dec_num" whose value is 21, do decrement operation multiple times so that
+the value of "dec_num" becomes 19.

@@ -13,3 +13,10 @@ $ git push
     * Logical Operators
     * Assignment Operators
     * Misc Operators
+* Variables
+    A variable is a container which holds the value, Variable is a name of memory location
+    * Local Variable
+    * Instance Variable
+    * Static variable
+* Control Statements
+* Functions
