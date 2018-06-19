@@ -10,8 +10,46 @@ true && false => false
 false && true => false
 false && false => false
 
+a)
+
 Create two variables "var_num" with 25, "var_num2" with 30, Create another variable "check_num" 
 with 28. Check if "check_num" is greater than "var_num" and less than "var_num2", capture the
 resulted value in "res_log_and" and print the same.(Hint: You need to perform relational operations)
 
-4.2 
+b)
+
+For the same expression above you built, change the value of "var_num2" such that the whole expression 
+should return false. (Hint: comparison of "check_num" and "var_num2" for less than should return false).
+ Print the value of "var_num2" and also the expression result.
+
+c) 
+
+Revert back the "var_num2" value to 30 and use the same expression above, now change the value of
+"var_num" such that the expression should result in false. Print the value of "var_num" and also the
+expression result.
+
+d)
+
+Combine expression results of 4.1 b) and 4.1 c) ( you calculated above) with logical and && and print the result.
+
+
+4.2 Logical Or ||
+
+Recap
+
+true || true => true
+true || false => true
+false || true => true
+false || false => false
+
+a)
+
+Create three variables "var_num_1", "var_num_2", "var_num_3" such that you have to find the values of
+these three variables.
+
+Using Relational Operations >, < between these three variables, you have to complete the four operations
+defined for Logical Or || in above truth table.(Ex: (4 > 5) || (4 < 3) )
+
+4.3 Negation !
+
+No Exercises.

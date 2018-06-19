@@ -1,0 +1,15 @@
+Miscellaneous Operators
+
+6.1 Conditional Operator
+
+Recap
+
+variable x = (expression) ? value if true : value if false
+
+int m = (10 > 5) ? 5 : 4;
+
+Use variables "a" , "b", you have to find the values of variables.
+A new variable "c" with value 10
+Such that a new variable "d" attained a value of 20 by using conditinal operator betweem "a", "b", "c"
+Expression is "d" should have a value of "b" if "a" is greater than "b"
+else it will have value of "c". Dont use if-else, use only Conditional Operator.

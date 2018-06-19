@@ -1,0 +1,33 @@
+Assignment Operations
+
+Arthimetic Assigment Operators
+5.1 =
+5.2 +=
+
+Create a variable with name "var_asgn_p" with value 10, Now use += operator such that it 
+value becomes 14.
+
+5.2 -=
+
+You have to find the inital value of variable "var_asgn_n" , such that 
+if now use -= operator as, var_asgn_n -= var_asgn_p; the resulted var_asgn_n value should be 6.
+
+5.3 *= 
+
+You have to find the inital value of variable "var_asgn_m" , such that 
+if now use *= operator as, var_asgn_m *= 3; the resulted var_asgn_m value should be 18.
+
+5.4 /= Divison Assignment operator
+
+You have to find the inital value of variable "var_asgn_d" , such that 
+if now use /= operator as, var_asgn_d /= 3; the resulted var_asgn_d value should be 3.
+
+
+5.4 %= Reminder Assignment operator
+
+You have to find the inital value of variable "var_asgn_r" , such that 
+if now use %= operator as, var_asgn_r %= 3; the resulted var_asgn_r value should be 1.
+
+
+Bitwise Assigment Operators
+Pending.

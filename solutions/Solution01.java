@@ -1,4 +1,6 @@
 class Solution01{
+  int account_num = 12344;
+  static int currency = 10; // static variable
   public static void main(String args[]){
     
     //whole numbers
