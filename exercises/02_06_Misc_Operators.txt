@@ -13,3 +13,4 @@ A new variable "c" with value 10
 Such that a new variable "d" attained a value of 20 by using conditinal operator betweem "a", "b", "c"
 Expression is "d" should have a value of "b" if "a" is greater than "b"
 else it will have value of "c". Dont use if-else, use only Conditional Operator.
+
